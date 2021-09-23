@@ -8,6 +8,13 @@ public class Lesson2 {
         number2(3);
         System.out.println(number3(5));
         number4();
+        System.out.println("Отрицательое");
+        System.out.println("Отрицательое");
+        System.out.println("Отрицательое");
+        System.out.println("Отрицательое");
+        System.out.println("Отрицательое");
+        System.out.println("Отрицательое");
+        System.out.println("Отрицательое");
     }
 
     public static boolean number1(int a, int b) {
@@ -41,5 +48,11 @@ public class Lesson2 {
             }
 
         }
+
+
+
+
+
+
 
 }
