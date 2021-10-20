@@ -4,10 +4,36 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3e3bc19a-c431-4696-8326-6ccf89432aa4" name="Changes" comment="">
+    <list default="true" id="3e3bc19a-c431-4696-8326-6ccf89432aa4" name="Changes" comment="ррр">
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Git.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JAVA/JavaCore/CanSwim.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JAVA/JavaCore/Course.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JAVA/JavaCore/Greydwarf.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JAVA/JavaCore/Lox.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JAVA/JavaCore/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JAVA/JavaCore/Nix.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JAVA/JavaCore/Pool.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JAVA/JavaCore/Road.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JAVA/JavaCore/Team.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JAVA/JavaCore/Track.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JAVA/JavaCore/Wolf.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JAVA/Lesson2/Lesson2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JAVA/Lesson2/Lesson3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaCore/CanSwim.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaCore/Course.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaCore/Greydwarf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaCore/Lox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaCore/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaCore/Nix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaCore/Pool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaCore/Road.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaCore/Team.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaCore/Track.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaCore/Wolf.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA/Lesson1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lesson1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson1/Lesson.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson2/Lesson2.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,14 +43,23 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="hm2" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1yLmSrnVXC2GPRuizu3P82CpknD" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -32,9 +67,10 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/Lesson2" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="HomeWorkApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="HomeWorkApp" />
       <module name="JAVA" />
@@ -42,8 +78,51 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Lesson2 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson2.Lesson2" />
+      <module name="JAVA" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/Lesson2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lesson2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lesson2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson2.Lesson2" />
+      <module name="JAVA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lesson2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaCore.Main" />
+      <module name="JAVA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JavaCore.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Lesson2" />
+        <item itemvalue="Application.Lesson2 (1)" />
         <item itemvalue="Application.HomeWorkApp" />
       </list>
     </recent_temporary>
@@ -64,11 +143,27 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="JavaCore" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="ррр" />
+    <option name="LAST_COMMIT_MESSAGE" value="ррр" />
   </component>
 </project>
