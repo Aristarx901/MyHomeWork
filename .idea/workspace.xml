@@ -5,35 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3e3bc19a-c431-4696-8326-6ccf89432aa4" name="Changes" comment="ррр">
-      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Git.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JAVA/JavaCore/CanSwim.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JAVA/JavaCore/Course.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JAVA/JavaCore/Greydwarf.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JAVA/JavaCore/Lox.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JAVA/JavaCore/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JAVA/JavaCore/Nix.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JAVA/JavaCore/Pool.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JAVA/JavaCore/Road.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JAVA/JavaCore/Team.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JAVA/JavaCore/Track.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JAVA/JavaCore/Wolf.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JAVA/Lesson2/Lesson2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JAVA/Lesson2/Lesson3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaCore/CanSwim.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaCore/Course.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaCore/Greydwarf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaCore/Lox.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaCore/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaCore/Nix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaCore/Pool.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaCore/Road.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaCore/Team.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaCore/Track.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaCore/Wolf.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lesson1/Lesson.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lesson2/Lesson2.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,7 +42,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/Lesson2" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.Massive">
     <configuration name="HomeWorkApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="HomeWorkApp" />
       <module name="JAVA" />
@@ -118,8 +90,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Massive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaCore2.Massive" />
+      <module name="JAVA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JavaCore2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Massive" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Lesson2" />
         <item itemvalue="Application.Lesson2 (1)" />
@@ -136,6 +122,14 @@
       <option name="presentableId" value="Default" />
       <updated>1632039250679</updated>
     </task>
+    <task id="LOCAL-00001" summary="ррр">
+      <created>1634696705751</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1634696705751</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
